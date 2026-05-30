@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning<br><br>Full Stack Development (Spring Boot, React, APIs, Authentication)<br>Data Structures & Algorithms in Java<br>Database Design and System Design Fundamentals<br><br>👯 I'm looking to collaborate on<br><br>Full Stack Web Applications<br>Open Source Java/Spring Boot Projects<br>Data Analytics and Sports Analytics Projects<br><br>🤝 I'm looking for help with<br><br>Advanced System Design<br>Scalable Backend Development<br>Industry-level Full Stack Project Architecture<br><br>💬 Ask me about<br><br>Java Programming<br>Data Structures & Algorithms<br>Spring Boot Development<br>IPL Data Analysis Projects<br>Engineering Mathematics<br><br>⚡ Fun fact<br><br>I enjoy analyzing cricket statistics as much as writing code, and I've built a project on identifying the best-performing IPL players using data analytics!<br>
+I am a Full Stack Developer skilled in Java, Spring Boot, React, and modern web technologies.
 
 
 ## 🌐 Socials:
