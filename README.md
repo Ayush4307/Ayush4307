@@ -1,7 +1,7 @@
 # 💫 About Me:
 
  I am a Full Stack Developer skilled in Java, Spring Boot, React, and modern web technologies.
- Passionate about building scalable web applications and solving real-world problems through code.
+ Passionate about Building scalable Web Applications and solving Real-world problems through Code.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ayush_4307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhayuh4307@gmail.com) 
