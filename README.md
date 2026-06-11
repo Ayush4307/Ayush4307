@@ -9,6 +9,19 @@
 I am a Full Stack Developer skilled in Java, Spring Boot, React, and modern web technologies.
  Passionate about building scalable web applications and solving real-world problems through code.
 
+<br/>
+
+### 🌟 Recent Open Source Contributions
+
+I actively contribute to open-source projects. Here are some of my recent merged PRs in real-world production codebases:
+
+- **[FitMart](https://github.com/parthbuilds-community/FitMart)**: A full-stack MERN fitness e-commerce platform.
+  - 🚀 **[PR #577](https://github.com/parthbuilds-community/FitMart/pull/577)**: Centralized the API Base URL via a Shared HTTP Client Abstraction. Refactored 20+ frontend components to use a unified `apiClient.js` wrapper.
+  - 🎨 **[PR #575](https://github.com/parthbuilds-community/FitMart/pull/575)**: Removed duplicate Google Fonts imports across 20+ components to improve performance and prevent FOUT.
+  - 🧹 **[PR #580](https://github.com/parthbuilds-community/FitMart/pull/580)**: Cleaned up leftover debug `console.log` statements from production UI components.
+
+<br/>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhayush4307@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ayush_4307) 
 
