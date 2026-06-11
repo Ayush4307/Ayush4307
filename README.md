@@ -1,6 +1,12 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ayush+Singh;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
- I am a Full Stack Developer skilled in Java, Spring Boot, React, and modern web technologies.
+<br/>
+
+### 👨‍💻 About Me
+
+I am a Full Stack Developer skilled in Java, Spring Boot, React, and modern web technologies.
  Passionate about building scalable web applications and solving real-world problems through code.
 
 ## 🌐 Socials:
