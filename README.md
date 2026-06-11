@@ -22,6 +22,16 @@ I actively contribute to open-source projects. Here are some of my recent merged
 
 <br/>
 
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[IPL Performance Analyzer](https://github.com/Ayush4307/Analysis-of-Best-Performing-Players-in-IPL)** | An Interactive Streamlit Dashboard for analyzing IPL player and team performances with dynamic venue insights. | `Python`, `Streamlit`, `Pandas`, `Plotly` |
+| **[Job Tracker](https://github.com/Ayush4307/job-tracker)** | A comprehensive tracking system to organize and manage job applications effectively. | `TypeScript`, `Next.js` |
+| **[MyPortfolio](https://github.com/Ayush4307/MyPortfolio)** | My personal developer portfolio highlighting my experience and open-source contributions. | `CSS`, `React` |
+
+<br/>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhayush4307@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ayush_4307) 
 
