@@ -10,7 +10,6 @@ I am a Full Stack Developer skilled in Java, Spring Boot, React, and modern web 
  Passionate about building scalable web applications and solving real-world problems through code.
 
 <br/>
-
 ### 🌟 Recent Open Source Contributions
 
 I actively contribute to open-source projects. Here are some of my recent merged PRs in real-world production codebases:
