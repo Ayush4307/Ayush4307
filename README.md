@@ -25,9 +25,9 @@ I actively contribute to open-source projects. Here are some of my recent merged
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[IPL Performance Analyzer](https://github.com/Ayush4307/Analysis-of-Best-Performing-Players-in-IPL)** | An Interactive Streamlit Dashboard for analyzing IPL player and team performances with dynamic venue insights. | `Python`, `Streamlit`, `Pandas`, `Plotly` |
-| **[Job Tracker](https://github.com/Ayush4307/job-tracker)** | A comprehensive tracking system to organize and manage job applications effectively. | `TypeScript`, `Next.js` |
+| **[Unihive](https://github.com/Ayush4307/Unihive)** | A comprehensive university community and resource sharing platform. | `Next.js`, `TypeScript`, `Tailwind CSS` |
 | **[MyPortfolio](https://github.com/Ayush4307/MyPortfolio)** | My personal developer portfolio highlighting my experience and open-source contributions. | `CSS`, `React` |
+| **[IPL Performance Analyzer](https://github.com/Ayush4307/Analysis-of-Best-Performing-Players-in-IPL)** | An Interactive Streamlit Dashboard for analyzing IPL player and team performances with dynamic venue insights. | `Python`, `Streamlit`, `Pandas`, `Plotly` |
 
 <br/>
 
